@@ -1,0 +1,39 @@
+body {
+    background-color: gainsboro;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+    
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: Indigo;
+}
+
+h3 {
+    font-size: 20px;
+    padding: 15px;
+    color: black;
+}
+
+table {
+    border:2px solid Indigo;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: slateblue;
+}
+
+td {
+    border-top:2px solid white;
+}
+.tag {
+    font: monospace;
+    color: chartreuse;
+}
